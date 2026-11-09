@@ -108,13 +108,13 @@ MACHINE_FAILURE_PREDICTION/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ChiragBhageriya/machine-failure-prediction.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd machine-failure-prediction
 ```
 
 Install dependencies:
