@@ -1,4 +1,10 @@
-# ⚙️ Machine Failure Prediction System
+# Machine Failure Prediction System
+
+[🚀 **Live Demo – Try the Application**](https://machine-failure-prediction-chirag.streamlit.app/)
+
+[💻 GitHub Repository](https://github.com/ChiragBhageriya/machine-failure-prediction)
+
+An end-to-end machine learning project for predictive maintenance using Random Forest classification and Streamlit.# ⚙️ Machine Failure Prediction System
 
 An end-to-end Machine Learning project that predicts potential machine failures using sensor readings and a Random Forest classification model.
 
